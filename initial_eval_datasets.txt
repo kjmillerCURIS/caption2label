@@ -1,0 +1,21 @@
+We will start with the following 5 benchmarks, all of which are done by CoCoOp:
+*ImageNet1K (generic)
+*UCF101 (action)
+*DTD (texture; pretty recognizable classnames, patch-alignment-with-multilabel might actually do okay on this one...)
+*Flowers102 (CoCoOp calls it fine-grained, and should be fairly common words)
+*Food101 (CoCoOp calls it fine-grained, and should be probably a bit easier than flowers)
+
+To keep things simple, we will use the classes from here (https://github.com/openai/CLIP/blob/main/data/prompts.md) and will have the CLIP ensemble baseline use the prompts described there as well. Note that they call DTD "DescribableTextures" and have ImageNet1K on a separate page. For classnames, I'll probably trust (with some light double-checking) that CoCoOp's classnames match CLIP's. For templates, I'll probably make a separate .py file in the codebase and use that, since ordering doesn't really matter for that.
+
+We will NOT use any task-specific text for patch-alignment-with-multilabel, at least not yet. I'm purposely holding off on FGVCAircraft for that reason, because its classnames aren't all that recognizable on their own. All the datasets I've chosen have "reasonable" classnames.
+
+I would've liked to include StanfordCars, but I'm having trouble obtaining it (the download links from CoCoOp don't work, and torchvision.dataset.StanfordCars doesn't work either as it uses the same broken links).
+
+I also would've liked to include EuroSAT, but it seemed a bit too complicated, i.e. CoCoOp seemed to have their own custom test split, while torchvision.datasets.EuroSAT had no split at all.
+
+Notes:
+- Flowers102 was downloaded using torchvision.datasets.Flowers102 with split="test". Labels are mapped to classnames using https://drive.google.com/file/d/1AkcxCXeK_RCGCEC_GvmWxjcjaNhu-at0/view from CoCoOp, which should be trustworthy (just remember that it's 1-indexed). Specifically, it's in the same order as CLIP and only has a few very trivial differences in the names themselves (I'm favoring the CoCoOp version just to keep things simple, and/or because I already wrote the code...). And I know that torchvision.datasets.Flowers102 and CoCoOp use the same image-to-gt mapping because I checked a few at random by hand. And like I said, I checked the gt-to-classname mapping between CoCoOp and CLIP. Therefore image-to-classname in my implementation is correct. Note that these classnames are not alphabetical order.
+- DTD was downloaded using torchvision.datasets.DTD with split="test" and partition=1. Classnames are gotten from CLIP codebase and they're basically just alphabetical order.
+- Food101 is the same situation, except there's no need to specify a partition.
+- For UCF101 I entirely rely on CoCoOp, because they specifically use midframes. Fortunately they have a stable test split, and it's super-duper clear how labels map to classnames (it's basically alphabetical order like CLIP - I assume that they convert underscores to spaces at some point, I remember them doing that...).
+- For ImageNet1K, I use my own copy but take CoCoOp's mapping from folder to classname. I make gt be the alphabetical ordering of the folder. CoCoOp says that their classnames are the same as CLIP's.

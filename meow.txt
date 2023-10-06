@@ -1,0 +1,2834 @@
+building label_counter...
+done building label_counter
+building label_counter...
+done building label_counter
+building label_counter...
+done building label_counter
+getting params...
+getting params...
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+getting params...
+data...
+_init_image_data...
+skipping "000249/000005/00046.png" because labels is empty
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+skipping "000057/000007/00413.png" because labels is empty
+loading/initializing model...
+start an epoch!
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+start an epoch!
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+getting params...
+data...
+_init_image_data...
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+getting params...
+skipping "000249/000005/00046.png" because labels is empty
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+getting params...
+data...
+_init_image_data...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+getting params...
+getting params...
+data...
+_init_image_data...
+data...
+_init_image_data...
+skipping "000282/000000/00207.png" because labels is empty
+data...
+_init_image_data...
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+found 2730873 images
+_init_text_data...
+skipping "000249/000005/00046.png" because labels is empty
+found 2730873 images
+_init_text_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+skipping "000254/000004/00260.png" because labels is empty
+loading/initializing model...
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+start an epoch!
+loading/initializing model...
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+start an epoch!
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+start an epoch!
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+loading/initializing model...
+start an epoch!
+start an epoch!
+getting params...
+getting params...
+data...
+_init_image_data...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+loading/initializing model...
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+getting params...
+data...
+_init_image_data...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+getting params...
+data...
+_init_image_data...
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+found 2730873 images
+_init_text_data...
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+found 2730849 image-text pairs
+_init_image_transforms...
+skipping "000249/000005/00046.png" because labels is empty
+loading/initializing model...
+loading/initializing model...
+skipping "000316/000004/00132.png" because labels is empty
+start an epoch!
+start an epoch!
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+getting params...
+getting params...
+data...
+_init_image_data...
+data...
+_init_image_data...
+data...
+_init_image_data...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+found 2730873 images
+_init_text_data...
+found 2730873 images
+_init_text_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+found 2730849 image-text pairs
+_init_image_transforms...
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+loading/initializing model...
+loading/initializing model...
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+start an epoch!
+found 2730849 image-text pairs
+_init_image_transforms...
+start an epoch!
+start an epoch!
+loading/initializing model...
+start an epoch!
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+getting params...
+data...
+_init_image_data...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+getting params...
+getting params...
+data...
+_init_image_data...
+data...
+_init_image_data...
+skipping "000057/000007/00413.png" because labels is empty
+found 2730873 images
+_init_text_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+start an epoch!
+found 2730849 image-text pairs
+_init_image_transforms...
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+skipping "000316/000004/00132.png" because labels is empty
+loading/initializing model...
+skipping "000059/000006/00159.png" because labels is empty
+start an epoch!
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+skipping "000254/000004/00260.png" because labels is empty
+loading/initializing model...
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+start an epoch!
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+loading/initializing model...
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+skipping "000316/000004/00132.png" because labels is empty
+loading/initializing model...
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+start an epoch!
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+getting params...
+data...
+_init_image_data...
+found 2730873 images
+_init_text_data...
+skipping "000037/000005/00927.png" because labels is empty
+skipping "000248/000007/00941.png" because labels is empty
+skipping "000304/000001/00813.png" because labels is empty
+skipping "000101/000007/00786.png" because labels is empty
+skipping "000155/000003/00769.png" because labels is empty
+skipping "000095/000008/00267.png" because labels is empty
+skipping "000096/000005/00820.png" because labels is empty
+skipping "000153/000007/00917.png" because labels is empty
+skipping "000195/000006/00387.png" because labels is empty
+skipping "000202/000001/00413.png" because labels is empty
+skipping "000254/000004/00260.png" because labels is empty
+skipping "000057/000007/00413.png" because labels is empty
+skipping "000035/000000/00175.png" because labels is empty
+skipping "000170/000008/00058.png" because labels is empty
+skipping "000231/000005/00983.png" because labels is empty
+skipping "000097/000004/00050.png" because labels is empty
+skipping "000146/000003/00354.png" because labels is empty
+skipping "000282/000000/00207.png" because labels is empty
+skipping "000306/000003/00215.png" because labels is empty
+skipping "000249/000005/00046.png" because labels is empty
+skipping "000316/000004/00132.png" because labels is empty
+skipping "000059/000006/00159.png" because labels is empty
+skipping "000301/000000/00068.png" because labels is empty
+skipping "000308/000004/00832.png" because labels is empty
+skipping "000092/000005/00484.png" because labels is empty
+skipping "000284/000006/00768.png" because labels is empty
+found 2730849 image-text pairs
+_init_image_transforms...
+loading/initializing model...
+start an epoch!
+start an epoch!
+start an epoch!
